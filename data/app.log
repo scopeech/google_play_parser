@@ -1,0 +1,1875 @@
+2025-04-06 18:25:20,988 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getMe "HTTP/1.1 200 OK"
+2025-04-06 18:25:21,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-06 18:25:21,096 - telegram.ext.Application - INFO - Application started
+2025-04-06 18:25:28,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:25:28,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 18:25:38,166 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:25:41,543 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:25:41,882 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 18:25:42,007 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 18:25:42,127 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:42,625 - __main__ - INFO - [Google] EG: Processing response
+2025-04-06 18:25:42,665 - __main__ - INFO - [Google] DZ: Processing response
+2025-04-06 18:25:42,689 - __main__ - INFO - [Google] BD: Processing response
+2025-04-06 18:25:42,707 - __main__ - INFO - [Google] BO: Processing response
+2025-04-06 18:25:42,721 - __main__ - INFO - [Google] AU: Processing response
+2025-04-06 18:25:42,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:43,053 - __main__ - INFO - [Google] CA: Processing response
+2025-04-06 18:25:43,091 - __main__ - INFO - [Google] CR: Processing response
+2025-04-06 18:25:43,111 - __main__ - INFO - [Google] CO: Processing response
+2025-04-06 18:25:43,128 - __main__ - INFO - [Google] CL: Processing response
+2025-04-06 18:25:43,142 - __main__ - INFO - [Google] BR: Processing response
+2025-04-06 18:25:43,338 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:43,532 - __main__ - INFO - [Google] GE: Processing response
+2025-04-06 18:25:43,573 - __main__ - INFO - [Google] IN: Processing response
+2025-04-06 18:25:43,597 - __main__ - INFO - [Google] ID: Processing response
+2025-04-06 18:25:43,613 - __main__ - INFO - [Google] HK: Processing response
+2025-04-06 18:25:43,627 - __main__ - INFO - [Google] GH: Processing response
+2025-04-06 18:25:43,819 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:44,024 - __main__ - INFO - [Google] IQ: Processing response
+2025-04-06 18:25:44,066 - __main__ - INFO - [Google] JO: Processing response
+2025-04-06 18:25:44,090 - __main__ - INFO - [Google] IL: Processing response
+2025-04-06 18:25:44,107 - __main__ - INFO - [Google] JP: Processing response
+2025-04-06 18:25:44,121 - __main__ - INFO - [Google] KZ: Processing response
+2025-04-06 18:25:44,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:44,540 - __main__ - INFO - [Google] MO: Processing response
+2025-04-06 18:25:44,577 - __main__ - INFO - [Google] KE: Processing response
+2025-04-06 18:25:44,598 - __main__ - INFO - [Google] MX: Processing response
+2025-04-06 18:25:44,614 - __main__ - INFO - [Google] MY: Processing response
+2025-04-06 18:25:44,628 - __main__ - INFO - [Google] KR: Processing response
+2025-04-06 18:25:44,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:45,002 - __main__ - INFO - [Google] PK: Processing response
+2025-04-06 18:25:45,038 - __main__ - INFO - [Google] MM: Processing response
+2025-04-06 18:25:45,062 - __main__ - INFO - [Google] NZ: Processing response
+2025-04-06 18:25:45,080 - __main__ - INFO - [Google] NG: Processing response
+2025-04-06 18:25:45,094 - __main__ - INFO - [Google] MA: Processing response
+2025-04-06 18:25:45,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:45,432 - __main__ - INFO - [Google] RU: Processing response
+2025-04-06 18:25:45,472 - __main__ - INFO - [Google] PY: Processing response
+2025-04-06 18:25:45,496 - __main__ - INFO - [Google] QA: Processing response
+2025-04-06 18:25:45,513 - __main__ - INFO - [Google] PH: Processing response
+2025-04-06 18:25:45,527 - __main__ - INFO - [Google] PE: Processing response
+2025-04-06 18:25:45,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:45,853 - __main__ - INFO - [Google] SA: Processing response
+2025-04-06 18:25:45,893 - __main__ - INFO - [Google] SG: Processing response
+2025-04-06 18:25:45,914 - __main__ - INFO - [Google] RS: Processing response
+2025-04-06 18:25:45,931 - __main__ - INFO - [Google] LK: Processing response
+2025-04-06 18:25:45,945 - __main__ - INFO - [Google] ZA: Processing response
+2025-04-06 18:25:46,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:46,250 - __main__ - INFO - [Google] TR: Processing response
+2025-04-06 18:25:46,283 - __main__ - INFO - [Google] TZ: Processing response
+2025-04-06 18:25:46,303 - __main__ - INFO - [Google] UA: Processing response
+2025-04-06 18:25:46,319 - __main__ - INFO - [Google] TH: Processing response
+2025-04-06 18:25:46,333 - __main__ - INFO - [Google] TW: Processing response
+2025-04-06 18:25:46,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:46,666 - __main__ - INFO - [Google] AE: Processing response
+2025-04-06 18:25:46,708 - __main__ - INFO - [Google] US: Processing response
+2025-04-06 18:25:46,730 - __main__ - INFO - [Google] VN: Processing response
+2025-04-06 18:25:46,745 - __main__ - INFO - Saved to cache: com.supercell.brawlstars_google
+2025-04-06 18:25:46,880 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 18:25:49,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendDocument "HTTP/1.1 200 OK"
+2025-04-06 18:25:51,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:01,796 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:11,912 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:22,080 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:32,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:38,172 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-06 18:26:38,173 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-06 18:26:45,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getMe "HTTP/1.1 200 OK"
+2025-04-06 18:26:45,880 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-06 18:26:45,881 - telegram.ext.Application - INFO - Application started
+2025-04-06 18:26:52,047 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 18:26:52,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 18:27:02,200 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:18:08,362 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getMe "HTTP/1.1 200 OK"
+2025-04-06 20:18:08,465 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-06 20:18:08,466 - telegram.ext.Application - INFO - Application started
+2025-04-06 20:18:12,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:12,869 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:12,869 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:18,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:18,583 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:18,583 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:25,540 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:25,541 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:25,541 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:31,368 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:31,370 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:31,371 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:38,338 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:18:38,663 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:18:38,784 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:18:38,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:39,410 - __main__ - INFO - [Google] BO: Processing response
+2025-04-06 20:18:39,430 - __main__ - INFO - [Google] DZ: Processing response
+2025-04-06 20:18:39,446 - __main__ - INFO - [Google] AU: Processing response
+2025-04-06 20:18:39,487 - __main__ - INFO - [Google] EG: Processing response
+2025-04-06 20:18:39,501 - __main__ - INFO - [Google] BD: Processing response
+2025-04-06 20:18:39,637 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:39,839 - __main__ - INFO - [Google] CA: Processing response
+2025-04-06 20:18:39,875 - __main__ - INFO - [Google] BR: Processing response
+2025-04-06 20:18:39,896 - __main__ - INFO - [Google] CO: Processing response
+2025-04-06 20:18:39,914 - __main__ - INFO - [Google] CL: Processing response
+2025-04-06 20:18:39,929 - __main__ - INFO - [Google] CR: Processing response
+2025-04-06 20:18:40,057 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:40,235 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:40,237 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:40,238 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:40,253 - __main__ - INFO - [Google] IN: Processing response
+2025-04-06 20:18:40,280 - __main__ - INFO - [Google] GE: Processing response
+2025-04-06 20:18:40,300 - __main__ - INFO - [Google] GH: Processing response
+2025-04-06 20:18:40,315 - __main__ - INFO - [Google] ID: Processing response
+2025-04-06 20:18:40,329 - __main__ - INFO - [Google] HK: Processing response
+2025-04-06 20:18:40,454 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:40,658 - __main__ - INFO - [Google] IQ: Processing response
+2025-04-06 20:18:40,691 - __main__ - INFO - [Google] IL: Processing response
+2025-04-06 20:18:40,713 - __main__ - INFO - [Google] JO: Processing response
+2025-04-06 20:18:40,729 - __main__ - INFO - [Google] JP: Processing response
+2025-04-06 20:18:40,744 - __main__ - INFO - [Google] KZ: Processing response
+2025-04-06 20:18:40,904 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:41,094 - __main__ - INFO - [Google] KE: Processing response
+2025-04-06 20:18:41,128 - __main__ - INFO - [Google] MO: Processing response
+2025-04-06 20:18:41,149 - __main__ - INFO - [Google] MY: Processing response
+2025-04-06 20:18:41,166 - __main__ - INFO - [Google] MX: Processing response
+2025-04-06 20:18:41,180 - __main__ - INFO - [Google] KR: Processing response
+2025-04-06 20:18:41,305 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:41,504 - __main__ - INFO - [Google] NZ: Processing response
+2025-04-06 20:18:41,537 - __main__ - INFO - [Google] MM: Processing response
+2025-04-06 20:18:41,555 - __main__ - INFO - [Google] MA: Processing response
+2025-04-06 20:18:41,571 - __main__ - INFO - [Google] PK: Processing response
+2025-04-06 20:18:41,586 - __main__ - INFO - [Google] NG: Processing response
+2025-04-06 20:18:41,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:41,903 - __main__ - INFO - [Google] QA: Processing response
+2025-04-06 20:18:41,938 - __main__ - INFO - [Google] PH: Processing response
+2025-04-06 20:18:41,959 - __main__ - INFO - [Google] RU: Processing response
+2025-04-06 20:18:41,975 - __main__ - INFO - [Google] PY: Processing response
+2025-04-06 20:18:41,990 - __main__ - INFO - [Google] PE: Processing response
+2025-04-06 20:18:42,117 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:42,316 - __main__ - INFO - [Google] ZA: Processing response
+2025-04-06 20:18:42,349 - __main__ - INFO - [Google] SA: Processing response
+2025-04-06 20:18:42,369 - __main__ - INFO - [Google] RS: Processing response
+2025-04-06 20:18:42,387 - __main__ - INFO - [Google] SG: Processing response
+2025-04-06 20:18:42,401 - __main__ - INFO - [Google] LK: Processing response
+2025-04-06 20:18:42,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:42,714 - __main__ - INFO - [Google] TZ: Processing response
+2025-04-06 20:18:42,750 - __main__ - INFO - [Google] TR: Processing response
+2025-04-06 20:18:42,771 - __main__ - INFO - [Google] TW: Processing response
+2025-04-06 20:18:42,788 - __main__ - INFO - [Google] TH: Processing response
+2025-04-06 20:18:42,821 - __main__ - INFO - [Google] UA: Processing response
+2025-04-06 20:18:42,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:43,149 - __main__ - INFO - [Google] US: Processing response
+2025-04-06 20:18:43,180 - __main__ - INFO - [Google] AE: Processing response
+2025-04-06 20:18:43,200 - __main__ - INFO - [Google] VN: Processing response
+2025-04-06 20:18:43,215 - __main__ - INFO - Saved to cache: com.blizzard.wtcg.hearthstone_google
+2025-04-06 20:18:43,339 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:18:43,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendDocument "HTTP/1.1 200 OK"
+2025-04-06 20:18:51,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:18:52,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:18:52,259 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:18:52,260 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:03,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:19:08,079 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:19:08,081 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:08,081 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:19,185 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:19:29,288 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:19:29,568 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:19:29,570 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:29,570 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:40,736 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:19:50,920 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:19:59,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:19:59,713 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:19:59,713 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:20:10,816 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:20:20,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:20:31,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:20:34,246 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:20:34,248 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:20:34,248 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:20:45,405 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:20:55,505 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:21:05,683 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:21:08,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:21:08,770 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:21:08,770 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:21:19,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:21:30,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:21:40,206 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:21:43,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:21:43,183 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:21:43,183 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:21:54,338 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:04,474 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:14,575 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:17,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:22:17,598 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:22:17,599 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:22:28,834 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:38,967 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:49,105 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:22:52,074 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:22:52,076 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:22:52,076 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:03,250 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:13,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:23,528 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:26,588 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:23:26,590 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:26,590 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:29,419 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:29,832 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:23:31,862 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:23:31,863 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:31,864 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:37,681 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:23:37,683 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:37,683 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:42,737 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:43,109 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:23:43,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:23:43,386 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:43,879 - __main__ - INFO - [Google] AU: Processing response
+2025-04-06 20:23:43,912 - __main__ - INFO - [Google] BO: Processing response
+2025-04-06 20:23:43,931 - __main__ - INFO - [Google] EG: Processing response
+2025-04-06 20:23:43,949 - __main__ - INFO - [Google] DZ: Processing response
+2025-04-06 20:23:43,963 - __main__ - INFO - [Google] BD: Processing response
+2025-04-06 20:23:44,098 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:44,286 - __main__ - INFO - [Google] CA: Processing response
+2025-04-06 20:23:44,320 - __main__ - INFO - [Google] CR: Processing response
+2025-04-06 20:23:44,339 - __main__ - INFO - [Google] CL: Processing response
+2025-04-06 20:23:44,357 - __main__ - INFO - [Google] CO: Processing response
+2025-04-06 20:23:44,371 - __main__ - INFO - [Google] BR: Processing response
+2025-04-06 20:23:44,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:44,678 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:23:44,678 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:44,679 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:44,739 - __main__ - INFO - [Google] HK: Processing response
+2025-04-06 20:23:44,766 - __main__ - INFO - [Google] GE: Processing response
+2025-04-06 20:23:44,784 - __main__ - INFO - [Google] ID: Processing response
+2025-04-06 20:23:44,800 - __main__ - INFO - [Google] GH: Processing response
+2025-04-06 20:23:44,813 - __main__ - INFO - [Google] IN: Processing response
+2025-04-06 20:23:45,053 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:45,237 - __main__ - INFO - [Google] JO: Processing response
+2025-04-06 20:23:45,271 - __main__ - INFO - [Google] IL: Processing response
+2025-04-06 20:23:45,291 - __main__ - INFO - [Google] JP: Processing response
+2025-04-06 20:23:45,307 - __main__ - INFO - [Google] IQ: Processing response
+2025-04-06 20:23:45,322 - __main__ - INFO - [Google] KZ: Processing response
+2025-04-06 20:23:45,494 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:45,681 - __main__ - INFO - [Google] MO: Processing response
+2025-04-06 20:23:45,717 - __main__ - INFO - [Google] KE: Processing response
+2025-04-06 20:23:45,736 - __main__ - INFO - [Google] KR: Processing response
+2025-04-06 20:23:45,752 - __main__ - INFO - [Google] MY: Processing response
+2025-04-06 20:23:45,766 - __main__ - INFO - [Google] MX: Processing response
+2025-04-06 20:23:45,970 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:46,165 - __main__ - INFO - [Google] NG: Processing response
+2025-04-06 20:23:46,196 - __main__ - INFO - [Google] MA: Processing response
+2025-04-06 20:23:46,219 - __main__ - INFO - [Google] NZ: Processing response
+2025-04-06 20:23:46,235 - __main__ - INFO - [Google] MM: Processing response
+2025-04-06 20:23:46,250 - __main__ - INFO - [Google] PK: Processing response
+2025-04-06 20:23:46,439 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:46,623 - __main__ - INFO - [Google] PH: Processing response
+2025-04-06 20:23:46,649 - __main__ - INFO - [Google] RU: Processing response
+2025-04-06 20:23:46,664 - __main__ - INFO - [Google] PY: Processing response
+2025-04-06 20:23:46,677 - __main__ - INFO - [Google] QA: Processing response
+2025-04-06 20:23:46,691 - __main__ - INFO - [Google] PE: Processing response
+2025-04-06 20:23:46,923 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:47,111 - __main__ - INFO - [Google] LK: Processing response
+2025-04-06 20:23:47,145 - __main__ - INFO - [Google] ZA: Processing response
+2025-04-06 20:23:47,164 - __main__ - INFO - [Google] SG: Processing response
+2025-04-06 20:23:47,181 - __main__ - INFO - [Google] RS: Processing response
+2025-04-06 20:23:47,196 - __main__ - INFO - [Google] SA: Processing response
+2025-04-06 20:23:47,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:47,538 - __main__ - INFO - [Google] TW: Processing response
+2025-04-06 20:23:47,570 - __main__ - INFO - [Google] TH: Processing response
+2025-04-06 20:23:47,591 - __main__ - INFO - [Google] UA: Processing response
+2025-04-06 20:23:47,608 - __main__ - INFO - [Google] TZ: Processing response
+2025-04-06 20:23:47,622 - __main__ - INFO - [Google] TR: Processing response
+2025-04-06 20:23:47,781 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:47,960 - __main__ - INFO - [Google] AE: Processing response
+2025-04-06 20:23:47,993 - __main__ - INFO - [Google] US: Processing response
+2025-04-06 20:23:48,013 - __main__ - INFO - [Google] VN: Processing response
+2025-04-06 20:23:48,029 - __main__ - INFO - Saved to cache: ru.poas.englishwords_google
+2025-04-06 20:23:48,160 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-06 20:23:48,331 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendDocument "HTTP/1.1 200 OK"
+2025-04-06 20:23:49,049 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:23:49,052 - __main__ - INFO - Cache hit for ru.poas.englishwords_google
+2025-04-06 20:23:49,266 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-06 20:23:49,692 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendDocument "HTTP/1.1 200 OK"
+2025-04-06 20:23:52,462 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:23:52,464 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:23:52,464 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:02,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:24:02,054 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:02,054 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:13,792 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:24:14,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:24:14,647 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:14,647 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:25,797 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:24:30,457 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:24:30,458 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:30,458 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:41,673 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:24:51,776 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:24:52,002 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:24:52,003 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:24:52,004 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:25:03,171 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:25:13,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:25:22,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:25:22,165 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:25:22,165 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:25:33,380 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:25:43,483 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:25:53,671 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:25:56,591 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:25:56,593 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:25:56,594 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:26:07,765 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:26:17,904 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:26:28,039 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:26:32,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:26:32,959 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:26:32,960 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:26:44,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:26:54,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:27:04,361 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-06 20:27:07,437 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 409 Conflict"
+2025-04-06 20:27:07,438 - telegram.ext.Updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:27:07,438 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 3661, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 469, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/_bot.py", line 497, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/extazzy/PycharmProjects/ParsingPricesGooglePlay/.venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-06 20:27:18,543 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:40:28,363 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getMe "HTTP/1.1 200 OK"
+2025-04-07 13:40:28,487 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-07 13:40:28,488 - telegram.ext.Application - INFO - Application started
+2025-04-07 13:40:28,804 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:40:28,930 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:29,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:29,177 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:29,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:38,937 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:40:49,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:40:57,030 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:40:57,401 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:57,529 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendMessage "HTTP/1.1 200 OK"
+2025-04-07 13:40:57,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:40:58,171 - __main__ - INFO - [Google] BD: Processing response
+2025-04-07 13:40:58,194 - __main__ - INFO - [Google] DZ: Processing response
+2025-04-07 13:40:58,211 - __main__ - INFO - [Google] EG: Processing response
+2025-04-07 13:40:58,227 - __main__ - INFO - [Google] AU: Processing response
+2025-04-07 13:40:58,242 - __main__ - INFO - [Google] BO: Processing response
+2025-04-07 13:40:58,367 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:40:58,590 - __main__ - INFO - [Google] CA: Processing response
+2025-04-07 13:40:58,627 - __main__ - INFO - [Google] CO: Processing response
+2025-04-07 13:40:58,647 - __main__ - INFO - [Google] CR: Processing response
+2025-04-07 13:40:58,663 - __main__ - INFO - [Google] CL: Processing response
+2025-04-07 13:40:58,678 - __main__ - INFO - [Google] BR: Processing response
+2025-04-07 13:40:58,803 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:40:58,990 - __main__ - INFO - [Google] GE: Processing response
+2025-04-07 13:40:59,025 - __main__ - INFO - [Google] GH: Processing response
+2025-04-07 13:40:59,045 - __main__ - INFO - [Google] IN: Processing response
+2025-04-07 13:40:59,062 - __main__ - INFO - [Google] ID: Processing response
+2025-04-07 13:40:59,077 - __main__ - INFO - [Google] HK: Processing response
+2025-04-07 13:40:59,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:40:59,413 - __main__ - INFO - [Google] KZ: Processing response
+2025-04-07 13:40:59,448 - __main__ - INFO - [Google] IL: Processing response
+2025-04-07 13:40:59,467 - __main__ - INFO - [Google] JP: Processing response
+2025-04-07 13:40:59,483 - __main__ - INFO - [Google] JO: Processing response
+2025-04-07 13:40:59,499 - __main__ - INFO - [Google] IQ: Processing response
+2025-04-07 13:40:59,635 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:40:59,834 - __main__ - INFO - [Google] MO: Processing response
+2025-04-07 13:40:59,868 - __main__ - INFO - [Google] MX: Processing response
+2025-04-07 13:40:59,890 - __main__ - INFO - [Google] KR: Processing response
+2025-04-07 13:40:59,907 - __main__ - INFO - [Google] KE: Processing response
+2025-04-07 13:40:59,922 - __main__ - INFO - [Google] MY: Processing response
+2025-04-07 13:41:00,050 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:00,257 - __main__ - INFO - [Google] NZ: Processing response
+2025-04-07 13:41:00,292 - __main__ - INFO - [Google] NG: Processing response
+2025-04-07 13:41:00,312 - __main__ - INFO - [Google] MA: Processing response
+2025-04-07 13:41:00,328 - __main__ - INFO - [Google] PK: Processing response
+2025-04-07 13:41:00,343 - __main__ - INFO - [Google] MM: Processing response
+2025-04-07 13:41:00,473 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:00,661 - __main__ - INFO - [Google] RU: Processing response
+2025-04-07 13:41:00,691 - __main__ - INFO - [Google] QA: Processing response
+2025-04-07 13:41:00,712 - __main__ - INFO - [Google] PY: Processing response
+2025-04-07 13:41:00,731 - __main__ - INFO - [Google] PE: Processing response
+2025-04-07 13:41:00,746 - __main__ - INFO - [Google] PH: Processing response
+2025-04-07 13:41:00,875 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:01,086 - __main__ - INFO - [Google] SA: Processing response
+2025-04-07 13:41:01,122 - __main__ - INFO - [Google] SG: Processing response
+2025-04-07 13:41:01,142 - __main__ - INFO - [Google] RS: Processing response
+2025-04-07 13:41:01,158 - __main__ - INFO - [Google] LK: Processing response
+2025-04-07 13:41:01,174 - __main__ - INFO - [Google] ZA: Processing response
+2025-04-07 13:41:01,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:01,486 - __main__ - INFO - [Google] TZ: Processing response
+2025-04-07 13:41:01,524 - __main__ - INFO - [Google] TR: Processing response
+2025-04-07 13:41:01,544 - __main__ - INFO - [Google] TW: Processing response
+2025-04-07 13:41:01,560 - __main__ - INFO - [Google] TH: Processing response
+2025-04-07 13:41:01,577 - __main__ - INFO - [Google] UA: Processing response
+2025-04-07 13:41:01,722 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:01,924 - __main__ - INFO - [Google] US: Processing response
+2025-04-07 13:41:01,959 - __main__ - INFO - [Google] AE: Processing response
+2025-04-07 13:41:02,040 - __main__ - INFO - [Google] VN: Processing response
+2025-04-07 13:41:02,061 - __main__ - INFO - Saved to cache: com.supercell.brawlstars_google
+2025-04-07 13:41:02,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/editMessageText "HTTP/1.1 200 OK"
+2025-04-07 13:41:02,585 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/sendDocument "HTTP/1.1 200 OK"
+2025-04-07 13:41:07,147 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
+2025-04-07 13:41:17,296 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8135308054:AAE2IVfhUM2oO814XOvqoaQaSbeE3T0bq3c/getUpdates "HTTP/1.1 200 OK"
